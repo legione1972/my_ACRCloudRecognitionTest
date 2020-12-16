@@ -859,7 +859,7 @@ namespace ACRCloudRecognitionTest
             ACRCloudRecognizer re = new ACRCloudRecognizer(config);
 
             // It will skip 0 seconds from the beginning of test.mp3.
-            string result = re.RecognizeByFile("test.mp3", 0);
+            string result = re.RecognizeByFile("test.mp3", 0); 
             Console.WriteLine(result);
 
             /**

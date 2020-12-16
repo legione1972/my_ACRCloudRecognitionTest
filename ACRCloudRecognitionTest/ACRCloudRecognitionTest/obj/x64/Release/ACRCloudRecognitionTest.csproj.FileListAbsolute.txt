@@ -8,3 +8,8 @@ C:\Users\legio\OneDrive\Desktop\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-m
 C:\Users\legio\OneDrive\Desktop\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x64\Release\ACRCloudRecognitionTest.csproj.CoreCompileInputs.cache
 C:\Users\legio\OneDrive\Desktop\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x64\Release\ACRCloudRecognitionTest.exe
 C:\Users\legio\OneDrive\Desktop\acrcloud_sdk_csharp-master\acrcloud_sdk_csharp-master\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x64\Release\ACRCloudRecognitionTest.pdb
+C:\Users\legio\Source\Repos\legione1972\my_ACRCloudRecognitionTest\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\x64\Release\ACRCloudRecognitionTest.exe
+C:\Users\legio\Source\Repos\legione1972\my_ACRCloudRecognitionTest\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\x64\Release\ACRCloudRecognitionTest.pdb
+C:\Users\legio\Source\Repos\legione1972\my_ACRCloudRecognitionTest\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x64\Release\ACRCloudRecognitionTest.csproj.CoreCompileInputs.cache
+C:\Users\legio\Source\Repos\legione1972\my_ACRCloudRecognitionTest\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x64\Release\ACRCloudRecognitionTest.exe
+C:\Users\legio\Source\Repos\legione1972\my_ACRCloudRecognitionTest\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x64\Release\ACRCloudRecognitionTest.pdb

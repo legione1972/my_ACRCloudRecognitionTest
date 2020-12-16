@@ -2,3 +2,9 @@
 \\mac\home\documents\visual studio 2010\Projects\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.pdb
 \\mac\home\documents\visual studio 2010\Projects\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.exe
 \\mac\home\documents\visual studio 2010\Projects\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.pdb
+C:\Users\legio\Source\Repos\legione1972\my_ACRCloudRecognitionTest\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.exe
+C:\Users\legio\Source\Repos\legione1972\my_ACRCloudRecognitionTest\ACRCloudRecognitionTest\ACRCloudRecognitionTest\bin\Release\ACRCloudRecognitionTest.pdb
+C:\Users\legio\Source\Repos\legione1972\my_ACRCloudRecognitionTest\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csprojAssemblyReference.cache
+C:\Users\legio\Source\Repos\legione1972\my_ACRCloudRecognitionTest\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.csproj.CoreCompileInputs.cache
+C:\Users\legio\Source\Repos\legione1972\my_ACRCloudRecognitionTest\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.exe
+C:\Users\legio\Source\Repos\legione1972\my_ACRCloudRecognitionTest\ACRCloudRecognitionTest\ACRCloudRecognitionTest\obj\x86\Release\ACRCloudRecognitionTest.pdb
